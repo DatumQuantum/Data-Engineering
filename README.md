@@ -1,3 +1,3 @@
 This is the case study for Grandeur properties  for data engineering solution.
-You can check more details in pdf file./
-pipe line files are (PL_Grandeur_Properties.json and manifest.json)
+Automating nightly property listing ingestion for an ultra-luxury real estate firm operating across London, Dubai, and New York.
+pipe line files (PL_Grandeur_Properties.json and manifest.json)
